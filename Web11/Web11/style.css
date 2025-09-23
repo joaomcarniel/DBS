@@ -1,0 +1,15 @@
+﻿body {
+    background-color:aquamarine;
+}
+#wrapper {
+    width: 80%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    width: 60%;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+}

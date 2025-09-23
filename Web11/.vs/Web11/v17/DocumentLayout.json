@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\Web11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|c:\\college\\web11\\web11\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|solutionrelative:web11\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|c:\\college\\web11\\web11\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|solutionrelative:web11\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|c:\\college\\web11\\web11\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|solutionrelative:web11\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|c:\\college\\web11\\web11\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2EE5D0B6-D7CD-433E-9229-72EA55EA2875}|Web11\\Web11.csproj|solutionrelative:web11\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\college\\Web11\\Web11\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Web11\\Default.aspx.cs",
+              "ToolTip": "C:\\college\\Web11\\Web11\\Default.aspx.cs",
+              "RelativeToolTip": "Web11\\Default.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:51:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\college\\Web11\\Web11\\style.css",
+              "RelativeDocumentMoniker": "Web11\\style.css",
+              "ToolTip": "C:\\college\\Web11\\Web11\\style.css",
+              "RelativeToolTip": "Web11\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-23T15:32:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\college\\Web11\\Web11\\Default.aspx",
+              "RelativeDocumentMoniker": "Web11\\Default.aspx",
+              "ToolTip": "C:\\college\\Web11\\Web11\\Default.aspx",
+              "RelativeToolTip": "Web11\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-23T15:28:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\college\\Web11\\Web11\\Site.Master",
+              "RelativeDocumentMoniker": "Web11\\Site.Master",
+              "ToolTip": "C:\\college\\Web11\\Web11\\Site.Master",
+              "RelativeToolTip": "Web11\\Site.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-23T15:22:09.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
