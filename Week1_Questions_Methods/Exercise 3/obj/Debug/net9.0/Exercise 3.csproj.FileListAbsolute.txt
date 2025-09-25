@@ -1,0 +1,15 @@
+C:\college\Week1_Questions_Methods\Exercise 3\bin\Debug\net9.0\Exercise 3.exe
+C:\college\Week1_Questions_Methods\Exercise 3\bin\Debug\net9.0\Exercise 3.deps.json
+C:\college\Week1_Questions_Methods\Exercise 3\bin\Debug\net9.0\Exercise 3.runtimeconfig.json
+C:\college\Week1_Questions_Methods\Exercise 3\bin\Debug\net9.0\Exercise 3.dll
+C:\college\Week1_Questions_Methods\Exercise 3\bin\Debug\net9.0\Exercise 3.pdb
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.AssemblyInfoInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.AssemblyInfo.cs
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.csproj.CoreCompileInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.sourcelink.json
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.dll
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\refint\Exercise 3.dll
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.pdb
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\Exercise 3.genruntimeconfig.cache
+C:\college\Week1_Questions_Methods\Exercise 3\obj\Debug\net9.0\ref\Exercise 3.dll

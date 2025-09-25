@@ -1,0 +1,30 @@
+C:\college\Exercise 2\Exercise 2\bin\Debug\net9.0\Exercise 2.exe
+C:\college\Exercise 2\Exercise 2\bin\Debug\net9.0\Exercise 2.deps.json
+C:\college\Exercise 2\Exercise 2\bin\Debug\net9.0\Exercise 2.runtimeconfig.json
+C:\college\Exercise 2\Exercise 2\bin\Debug\net9.0\Exercise 2.dll
+C:\college\Exercise 2\Exercise 2\bin\Debug\net9.0\Exercise 2.pdb
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.AssemblyInfoInputs.cache
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.AssemblyInfo.cs
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.csproj.CoreCompileInputs.cache
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.sourcelink.json
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.dll
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\refint\Exercise 2.dll
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.pdb
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\Exercise 2.genruntimeconfig.cache
+C:\college\Exercise 2\Exercise 2\obj\Debug\net9.0\ref\Exercise 2.dll
+C:\college\Week1_Questions_Methods\Exercise 2\bin\Debug\net9.0\Exercise 2.exe
+C:\college\Week1_Questions_Methods\Exercise 2\bin\Debug\net9.0\Exercise 2.deps.json
+C:\college\Week1_Questions_Methods\Exercise 2\bin\Debug\net9.0\Exercise 2.runtimeconfig.json
+C:\college\Week1_Questions_Methods\Exercise 2\bin\Debug\net9.0\Exercise 2.dll
+C:\college\Week1_Questions_Methods\Exercise 2\bin\Debug\net9.0\Exercise 2.pdb
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.AssemblyInfoInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.AssemblyInfo.cs
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.csproj.CoreCompileInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.sourcelink.json
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.dll
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\refint\Exercise 2.dll
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.pdb
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\Exercise 2.genruntimeconfig.cache
+C:\college\Week1_Questions_Methods\Exercise 2\obj\Debug\net9.0\ref\Exercise 2.dll

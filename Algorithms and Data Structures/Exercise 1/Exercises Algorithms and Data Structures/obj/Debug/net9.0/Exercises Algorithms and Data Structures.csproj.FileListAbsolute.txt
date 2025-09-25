@@ -1,0 +1,15 @@
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\bin\Debug\net9.0\Exercises Algorithms and Data Structures.exe
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\bin\Debug\net9.0\Exercises Algorithms and Data Structures.deps.json
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\bin\Debug\net9.0\Exercises Algorithms and Data Structures.runtimeconfig.json
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\bin\Debug\net9.0\Exercises Algorithms and Data Structures.dll
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\bin\Debug\net9.0\Exercises Algorithms and Data Structures.pdb
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.AssemblyInfoInputs.cache
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.AssemblyInfo.cs
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.csproj.CoreCompileInputs.cache
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.sourcelink.json
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.dll
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\refint\Exercises Algorithms and Data Structures.dll
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.pdb
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\Exercises Algorithms and Data Structures.genruntimeconfig.cache
+C:\college\Exercises Algorithms and Data Structures\Exercises Algorithms and Data Structures\obj\Debug\net9.0\ref\Exercises Algorithms and Data Structures.dll
