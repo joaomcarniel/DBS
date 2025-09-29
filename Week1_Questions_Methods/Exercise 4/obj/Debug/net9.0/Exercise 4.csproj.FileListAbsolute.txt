@@ -1,0 +1,15 @@
+C:\college\Week1_Questions_Methods\Exercise 4\bin\Debug\net9.0\Exercise 4.exe
+C:\college\Week1_Questions_Methods\Exercise 4\bin\Debug\net9.0\Exercise 4.deps.json
+C:\college\Week1_Questions_Methods\Exercise 4\bin\Debug\net9.0\Exercise 4.runtimeconfig.json
+C:\college\Week1_Questions_Methods\Exercise 4\bin\Debug\net9.0\Exercise 4.dll
+C:\college\Week1_Questions_Methods\Exercise 4\bin\Debug\net9.0\Exercise 4.pdb
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.AssemblyInfoInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.AssemblyInfo.cs
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.csproj.CoreCompileInputs.cache
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.sourcelink.json
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.dll
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\refint\Exercise 4.dll
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.pdb
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\Exercise 4.genruntimeconfig.cache
+C:\college\Week1_Questions_Methods\Exercise 4\obj\Debug\net9.0\ref\Exercise 4.dll

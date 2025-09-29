@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="NotepadK.exe" version="1.0.0.0" publicKeyToken="67ebea6df8a2e8ad" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="NotepadK" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="NotepadK.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NotepadK.exe" size="16848">
+      <assemblyIdentity name="NotepadK" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>chnWo8FteoRsIT77QvPTGzhXBazEjJ0jt94Qr6IpYe0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="NotepadK.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LENOVODOJOAO\joao_" issuerKeyHash="8fdc42ac2a85b26ca7b4fdc0ca9171f9588b91c6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wVKUqnq7cBsSH+h3gyKkCpKDB0XuFw/U+LP4D0gpwB8=</DigestValue></Reference></SignedInfo><SignatureValue>KrLytszb0nRaSflyYbiHtiSj6li/2f5piymYo+OpLhn/7nW5ei6tHsDwPuIyEAqLpTp6qpomjOzuycDfxglhClviOMZs0J4/tJ6IRUkzBfrBre9f5Ph/gNudWqdj2pxQ00je1rC2n84wdGkXwCFgIMs/pXhT/QqtRfC8TtpWeXM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>02KWcBwUfdyOPmxiPkFc09b4qV7Nf8W+XGMUu/MqSmu7akvi7A39lKpBQqLhz5V8s4kjCH0serMy0bOgvsg2Y+7r9mVVrkLAJW4g6wSuKj0VMfZiWO4DtMfLJFmvJOPRDvKrxXaDxACaAKNBWnJJiVCca15i2Jq/Rh2UIgjHZN0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1fc029480ff8b3f8d40f17ee450783920aa4228377e81f121b70bb7aaa9452c1" Description="" Url=""><as:assemblyIdentity name="NotepadK.exe" version="1.0.0.0" publicKeyToken="67ebea6df8a2e8ad" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LENOVODOJOAO\joao_</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5YdpaupFRDSK02EChpBnyY1EREr9oWJD543kVSgSogE=</DigestValue></Reference></SignedInfo><SignatureValue>0Ahkx81N4qsXogK/zrS2595Qknl/c1tuF3/+B8Ol4NNRZ8CeIMvDgUPNjsql68iUh5KOoTLpDxcO1/EqUSNpEoRFmlNOEv22qK5iUfoBvPogAi0bgRyiM1Krl9LJqhkXF/+Pd4+xuf3MWXKxQ2xUj4wvWJ2q0qJaFgrUAZaIHQA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>02KWcBwUfdyOPmxiPkFc09b4qV7Nf8W+XGMUu/MqSmu7akvi7A39lKpBQqLhz5V8s4kjCH0serMy0bOgvsg2Y+7r9mVVrkLAJW4g6wSuKj0VMfZiWO4DtMfLJFmvJOPRDvKrxXaDxACaAKNBWnJJiVCca15i2Jq/Rh2UIgjHZN0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQI76FkUwg3rZNQMlSxjFIyjANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQATABFAE4ATwBWAE8ARABPAEoATwBBAE8AXABqAG8AYQBvAF8wHhcNMjUwOTI5MTIzNzE4WhcNMjYwOTI5MTgzNzE4WjAvMS0wKwYDVQQDHiQATABFAE4ATwBWAE8ARABPAEoATwBBAE8AXABqAG8AYQBvAF8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANNilnAcFH3cjj5sYj5BXNPW+KlezX/FvlxjFLvzKkpru2pL4uwN/ZSqQUKi4c+VfLOJIwh9LHqzMtGzoL7INmPu6/ZlVa5CwCVuIOsErio9FTH2YljuA7THyyRZryTj0Q7yq8V2g8QAmgCjQVpySYlQnGteYtiav0YdlCIIx2TdAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAjIULFfPT6sO3SGWC5Jzrj9SL3/+ptsaL2Qqfo5Kg+5L40xlYqxBhFNeK/fp2IOOcwEg4uzfaPP4xLzG1PISk32/bu4mzmq/Mi7LYYJCBC/oJCpDYWNx1ZyzRktafnNq14r9L4/mHDzRaEqcOrsFxGRHvJ/vPar3/c5LIs7/7DjM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
