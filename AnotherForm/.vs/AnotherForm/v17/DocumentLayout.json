@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\AnotherForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD94EA4-219E-4497-A014-0B56870E3A37}|AnotherForm\\AnotherForm.csproj|c:\\college\\anotherform\\anotherform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD94EA4-219E-4497-A014-0B56870E3A37}|AnotherForm\\AnotherForm.csproj|solutionrelative:anotherform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD94EA4-219E-4497-A014-0B56870E3A37}|AnotherForm\\AnotherForm.csproj|c:\\college\\anotherform\\anotherform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD94EA4-219E-4497-A014-0B56870E3A37}|AnotherForm\\AnotherForm.csproj|solutionrelative:anotherform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\college\\AnotherForm\\AnotherForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AnotherForm\\Form1.cs",
+              "ToolTip": "C:\\college\\AnotherForm\\AnotherForm\\Form1.cs",
+              "RelativeToolTip": "AnotherForm\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA4wCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:17:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\college\\AnotherForm\\AnotherForm\\Form1.cs",
+              "RelativeDocumentMoniker": "AnotherForm\\Form1.cs",
+              "ToolTip": "C:\\college\\AnotherForm\\AnotherForm\\Form1.cs [Design]",
+              "RelativeToolTip": "AnotherForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:57:29.272Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

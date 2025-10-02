@@ -1,0 +1,13 @@
+C:\college\AnotherForm\AnotherForm\bin\Debug\AnotherForm.exe.config
+C:\college\AnotherForm\AnotherForm\bin\Debug\AnotherForm.exe
+C:\college\AnotherForm\AnotherForm\bin\Debug\AnotherForm.pdb
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.csproj.AssemblyReference.cache
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.Form1.resources
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.Properties.Resources.resources
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.csproj.GenerateResource.cache
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.csproj.CoreCompileInputs.cache
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.exe
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.pdb
+C:\college\AnotherForm\AnotherForm\obj\Debug\AnotherForm.exe.config
+C:\college\AnotherForm\AnotherForm\bin\Debug\Database.mdf
+C:\college\AnotherForm\AnotherForm\bin\Debug\Database_log.ldf

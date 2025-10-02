@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Earth.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <header>
+                <h6> Earth Side</h6>
+            </header>
+            <nav>
+                <ul>
+                    <li> <a href="Default.aspx"> Home   </a></li>
+                    <li> <a href="About.aspx"> About   </a></li>
+                    <li> <a href="Members.aspx"> Members   </a></li>
+                    <li> <a href="Register.aspx"> Register   </a></li>
+                    <li> <a href="Contact.aspx"> Contact   </a></li>
+                </ul>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer>
+                <p>Design by Joao</p>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>
