@@ -18,7 +18,7 @@
             List<int> listPrimeNum = new List<int>();
             for (int i = 0; i < (n-m+1); i++)
             {
-                if(m+i != 0 && m + i != 1 && (m+i) % 2 != 0)
+                if(IsPrime(m+i))
                 {
                     listPrimeNum.Add(m + i);
                 }
@@ -30,10 +30,12 @@
         private bool IsPrime(int num)
         {
             if (num == 0 || num == 1) return false;
-            for(int i = 2; i < num; i++)
+            if (num == 2) return true;
+            for(int i = num - 1; i > 1; i--)
             {
-                num % i == 0
+                if (num % i == 0) return false;
             }
+            return true;
         }
     }
 }

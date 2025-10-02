@@ -5,7 +5,7 @@ Console.WriteLine("Hello, World!");
 Service MyService = new Service();
 
 int[] arrayNum = MyService.ArrayOfNumbers(4, 8);
-List<int> primeNumbers = MyService.ArrayOfPrimeNumbers(4, 9);
+List<int> primeNumbers = MyService.ArrayOfPrimeNumbers(0, 30);
 Console.WriteLine("Array of Numbers");
 foreach (var a in arrayNum) 
 {
