@@ -7,6 +7,7 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -22,6 +23,7 @@
                     <li> <a href="Members.aspx"> Members   </a></li>
                     <li> <a href="Register.aspx"> Register   </a></li>
                     <li> <a href="Contact.aspx"> Contact   </a></li>
+                    <li> <a href="FAQ.aspx"> FAQ   </a></li>
                 </ul>
             </nav>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

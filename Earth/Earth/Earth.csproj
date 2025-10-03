@@ -77,6 +77,7 @@
       <DependentUpon>DatabaseEarth.mdf</DependentUpon>
     </Content>
     <Content Include="Contact.aspx" />
+    <Content Include="FAQ.aspx" />
     <Content Include="Global.asax" />
     <Content Include="images\andromeda.jpg" />
     <Content Include="images\arrow-1.png" />
@@ -89,6 +90,7 @@
     <Content Include="images\m16_pillars.jpg" />
     <Content Include="images\sunset.jpg" />
     <Content Include="images\sunsetmoon.jpg" />
+    <Content Include="Jquery.js" />
     <Content Include="Members.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="style.css" />
@@ -109,6 +111,13 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FAQ.aspx.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FAQ.aspx.designer.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
