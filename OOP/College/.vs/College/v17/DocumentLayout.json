@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\OOP\\College\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|c:\\college\\oop\\college\\college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|solutionrelative:college\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|c:\\college\\oop\\college\\college\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|solutionrelative:college\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|c:\\college\\oop\\college\\college\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|solutionrelative:college\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|c:\\college\\oop\\college\\college\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0931E5EF-2EC0-4A72-B09C-43B9941BA840}|College\\College.csproj|solutionrelative:college\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\college\\OOP\\College\\College\\Lecturer.cs",
+              "RelativeDocumentMoniker": "College\\Lecturer.cs",
+              "ToolTip": "C:\\college\\OOP\\College\\College\\Lecturer.cs",
+              "RelativeToolTip": "College\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:22:17.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\college\\OOP\\College\\College\\Student.cs",
+              "RelativeDocumentMoniker": "College\\Student.cs",
+              "ToolTip": "C:\\college\\OOP\\College\\College\\Student.cs",
+              "RelativeToolTip": "College\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:17:22.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\college\\OOP\\College\\College\\Person.cs",
+              "RelativeDocumentMoniker": "College\\Person.cs",
+              "ToolTip": "C:\\college\\OOP\\College\\College\\Person.cs",
+              "RelativeToolTip": "College\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:13:41.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\college\\OOP\\College\\College\\Form1.cs",
+              "RelativeDocumentMoniker": "College\\Form1.cs",
+              "ToolTip": "C:\\college\\OOP\\College\\College\\Form1.cs [Design]",
+              "RelativeToolTip": "College\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:12:36.596Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
