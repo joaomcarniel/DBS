@@ -24,6 +24,8 @@
                     <li> <a href="Register.aspx"> Register   </a></li>
                     <li> <a href="Contact.aspx"> Contact   </a></li>
                     <li> <a href="FAQ.aspx"> FAQ   </a></li>
+                    <li> <a href="Login.aspx"> Login   </a></li>
+                    <li> <a href="ShowUser.aspx"> Show Users   </a></li>
                 </ul>
             </nav>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
