@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\college\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj": {}
+    "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj": {}
   },
   "projects": {
-    "C:\\college\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj": {
+    "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\college\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj",
+        "projectUniqueName": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj",
         "projectName": "Exercise 3",
-        "projectPath": "C:\\college\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj",
+        "projectPath": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 3\\Exercise 3.csproj",
         "packagesPath": "C:\\Users\\joao_\\.nuget\\packages\\",
-        "outputPath": "C:\\college\\Week1_Questions_Methods\\Exercise 3\\obj\\",
+        "outputPath": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
