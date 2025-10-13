@@ -1,0 +1,13 @@
+C:\college\OOP\College\College\bin\Debug\CollegeDatabase.mdf
+C:\college\OOP\College\College\bin\Debug\CollegeDatabase_log.ldf
+C:\college\OOP\College\College\bin\Debug\College.exe.config
+C:\college\OOP\College\College\bin\Debug\College.exe
+C:\college\OOP\College\College\bin\Debug\College.pdb
+C:\college\OOP\College\College\obj\Debug\College.csproj.AssemblyReference.cache
+C:\college\OOP\College\College\obj\Debug\College.Form1.resources
+C:\college\OOP\College\College\obj\Debug\College.Properties.Resources.resources
+C:\college\OOP\College\College\obj\Debug\College.csproj.GenerateResource.cache
+C:\college\OOP\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+C:\college\OOP\College\College\obj\Debug\College.exe
+C:\college\OOP\College\College\obj\Debug\College.pdb
+C:\college\OOP\College\College\obj\Debug\College.exe.config

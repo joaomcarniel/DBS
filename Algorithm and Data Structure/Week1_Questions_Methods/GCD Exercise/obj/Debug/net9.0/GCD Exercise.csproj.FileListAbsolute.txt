@@ -1,0 +1,15 @@
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\bin\Debug\net9.0\GCD Exercise.exe
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\bin\Debug\net9.0\GCD Exercise.deps.json
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\bin\Debug\net9.0\GCD Exercise.runtimeconfig.json
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\bin\Debug\net9.0\GCD Exercise.dll
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\bin\Debug\net9.0\GCD Exercise.pdb
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.AssemblyInfoInputs.cache
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.AssemblyInfo.cs
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.csproj.CoreCompileInputs.cache
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.sourcelink.json
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.dll
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\refint\GCD Exercise.dll
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.pdb
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\GCD Exercise.genruntimeconfig.cache
+C:\college\Algorithm and Data Structure\Week1_Questions_Methods\GCD Exercise\obj\Debug\net9.0\ref\GCD Exercise.dll
