@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D33F612E-9B15-4128-BF82-E6558F1A302F}|GCD Exercise\\GCD Exercise.csproj|c:\\college\\algorithm and data structure\\week1_questions_methods\\gcd exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D33F612E-9B15-4128-BF82-E6558F1A302F}|GCD Exercise\\GCD Exercise.csproj|solutionrelative:gcd exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D33F612E-9B15-4128-BF82-E6558F1A302F}|GCD Exercise\\GCD Exercise.csproj|c:\\college\\algorithm and data structure\\week1_questions_methods\\gcd exercise\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D33F612E-9B15-4128-BF82-E6558F1A302F}|GCD Exercise\\GCD Exercise.csproj|solutionrelative:gcd exercise\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2F2EC3-CC2C-4ACD-B08A-4C5780A21100}|RecursiveExercise\\RecursiveExercise.csproj|c:\\college\\algorithm and data structure\\week1_questions_methods\\recursiveexercise\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F2EC3-CC2C-4ACD-B08A-4C5780A21100}|RecursiveExercise\\RecursiveExercise.csproj|solutionrelative:recursiveexercise\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16119A6-FBA5-41B6-94C7-45C3517FFE76}|Exercise 4\\Exercise 4.csproj|c:\\college\\algorithm and data structure\\week1_questions_methods\\exercise 4\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16119A6-FBA5-41B6-94C7-45C3517FFE76}|Exercise 4\\Exercise 4.csproj|solutionrelative:exercise 4\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Service.cs",
-              "RelativeDocumentMoniker": "GCD Exercise\\Service.cs",
-              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Service.cs",
-              "RelativeToolTip": "GCD Exercise\\Service.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\RecursiveExercise\\Service.cs",
+              "RelativeDocumentMoniker": "RecursiveExercise\\Service.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\RecursiveExercise\\Service.cs",
+              "RelativeToolTip": "RecursiveExercise\\Service.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:09:09.372Z",
+              "WhenOpened": "2025-10-09T13:24:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 4\\Service.cs",
+              "RelativeDocumentMoniker": "Exercise 4\\Service.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\Exercise 4\\Service.cs",
+              "RelativeToolTip": "Exercise 4\\Service.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:24:22.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Program.cs",
-              "RelativeDocumentMoniker": "GCD Exercise\\Program.cs",
-              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Program.cs*",
-              "RelativeToolTip": "GCD Exercise\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Service.cs",
+              "RelativeDocumentMoniker": "GCD Exercise\\Service.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Week1_Questions_Methods\\GCD Exercise\\Service.cs",
+              "RelativeToolTip": "GCD Exercise\\Service.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T13:08:53.302Z",
+              "WhenOpened": "2025-10-09T13:24:13.052Z",
               "EditorCaption": ""
             }
           ]
