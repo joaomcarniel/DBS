@@ -34,5 +34,11 @@
         Westmeath,
         Wexford,
         Wicklow
+    };
+
+    public enum Gender
+    {
+        Male,
+        Female
     }
 }

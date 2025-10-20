@@ -12,6 +12,8 @@ namespace College
 {
     public partial class Form1 : Form
     {
+        Queries queries = new Queries();
+
         public Form1()
         {
             InitializeComponent();
@@ -68,6 +70,8 @@ namespace College
         {
             countyStud.DataSource = Enum.GetValues(typeof(Counties));
             countyLec.DataSource = Enum.GetValues(typeof(Counties));
+            cboGender.DataSource = Enum.GetValues(typeof(Gender));
+            cboStuFrom.DataSource = Enum.GetValues(typeof(Counties));
         }
 
         private void label7_Click(object sender, EventArgs e)
@@ -78,6 +82,26 @@ namespace College
         private void label13_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnShowStudents_Click(object sender, EventArgs e)
+        {
+            DGV.DataSource = queries.ShowStudents();
+        }
+
+        private void btnShowLecturer_Click(object sender, EventArgs e)
+        {
+            DGV.DataSource = queries.ShowLecturers();
+        }
+
+        private void btnShowGen_Click(object sender, EventArgs e)
+        {
+            DGV.DataSource = queries.ShowGender(cboGender.SelectedItem.ToString());
+        }
+
+        private void btnStuFrom_Click(object sender, EventArgs e)
+        {
+            DGV.DataSource = queries.ShowStudentCounty(cboStuFrom.SelectedItem.ToString());
         }
     }
 }

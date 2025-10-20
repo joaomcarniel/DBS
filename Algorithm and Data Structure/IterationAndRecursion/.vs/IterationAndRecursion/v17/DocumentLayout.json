@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC6991-5B6A-488F-9375-EF3B3B177B58}|Palindrome\\Palindrome.csproj|c:\\college\\algorithm and data structure\\iterationandrecursion\\palindrome\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FC6991-5B6A-488F-9375-EF3B3B177B58}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DADF090-0C5B-4757-8FF5-115F78BF28D9}|LargestElementOfArray\\LargestElementOfArray.csproj|c:\\college\\algorithm and data structure\\iterationandrecursion\\largestelementofarray\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DADF090-0C5B-4757-8FF5-115F78BF28D9}|LargestElementOfArray\\LargestElementOfArray.csproj|solutionrelative:largestelementofarray\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC6991-5B6A-488F-9375-EF3B3B177B58}|Palindrome\\Palindrome.csproj|c:\\college\\algorithm and data structure\\iterationandrecursion\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6FC6991-5B6A-488F-9375-EF3B3B177B58}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DADF090-0C5B-4757-8FF5-115F78BF28D9}|LargestElementOfArray\\LargestElementOfArray.csproj|c:\\college\\algorithm and data structure\\iterationandrecursion\\largestelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DADF090-0C5B-4757-8FF5-115F78BF28D9}|LargestElementOfArray\\LargestElementOfArray.csproj|solutionrelative:largestelementofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\Palindrome\\Service.cs",
-              "RelativeDocumentMoniker": "Palindrome\\Service.cs",
-              "ToolTip": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\Palindrome\\Service.cs",
-              "RelativeToolTip": "Palindrome\\Service.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\LargestElementOfArray\\Service.cs",
+              "RelativeDocumentMoniker": "LargestElementOfArray\\Service.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\LargestElementOfArray\\Service.cs",
+              "RelativeToolTip": "LargestElementOfArray\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:32:08.524Z",
+              "WhenOpened": "2025-10-16T13:47:58.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\Palindrome\\Program.cs",
-              "RelativeDocumentMoniker": "Palindrome\\Program.cs",
-              "ToolTip": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\Palindrome\\Program.cs",
-              "RelativeToolTip": "Palindrome\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\LargestElementOfArray\\Program.cs",
+              "RelativeDocumentMoniker": "LargestElementOfArray\\Program.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\IterationAndRecursion\\LargestElementOfArray\\Program.cs",
+              "RelativeToolTip": "LargestElementOfArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:29:44.542Z",
+              "WhenOpened": "2025-10-16T13:47:45.87Z",
               "EditorCaption": ""
             }
           ]

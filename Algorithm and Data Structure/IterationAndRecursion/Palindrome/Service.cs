@@ -24,7 +24,7 @@
             { 
                 return false; 
             }
-            return IsPalindromeByRecursion(word, index + 1);
+            return IsPalindromeByRecursion(word, index + 1);    
         }
     }
 }
