@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\Web Development I\\Nature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|c:\\college\\web development i\\nature\\nature\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|solutionrelative:nature\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|c:\\college\\web development i\\nature\\nature\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|solutionrelative:nature\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|c:\\college\\web development i\\nature\\nature\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|solutionrelative:nature\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|c:\\college\\web development i\\nature\\nature\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|solutionrelative:nature\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|c:\\college\\web development i\\nature\\nature\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3A3E13F1-A64C-4A22-B75B-99E7F1AD8295}|Nature\\Nature.csproj|solutionrelative:nature\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\college\\Web Development I\\Nature\\Nature\\StyleSheet.css",
+              "RelativeDocumentMoniker": "Nature\\StyleSheet.css",
+              "ToolTip": "C:\\college\\Web Development I\\Nature\\Nature\\StyleSheet.css",
+              "RelativeToolTip": "Nature\\StyleSheet.css",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-21T14:24:51.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\college\\Web Development I\\Nature\\Nature\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "Nature\\Contact.aspx.cs",
+              "ToolTip": "C:\\college\\Web Development I\\Nature\\Nature\\Contact.aspx.cs",
+              "RelativeToolTip": "Nature\\Contact.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:48:19.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\college\\Web Development I\\Nature\\Nature\\Contact.aspx",
+              "RelativeDocumentMoniker": "Nature\\Contact.aspx",
+              "ToolTip": "C:\\college\\Web Development I\\Nature\\Nature\\Contact.aspx",
+              "RelativeToolTip": "Nature\\Contact.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-21T15:39:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\college\\Web Development I\\Nature\\Nature\\Default.aspx",
+              "RelativeDocumentMoniker": "Nature\\Default.aspx",
+              "ToolTip": "C:\\college\\Web Development I\\Nature\\Nature\\Default.aspx",
+              "RelativeToolTip": "Nature\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-21T14:52:31.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\college\\Web Development I\\Nature\\Nature\\Site.Master",
+              "RelativeDocumentMoniker": "Nature\\Site.Master",
+              "ToolTip": "C:\\college\\Web Development I\\Nature\\Nature\\Site.Master",
+              "RelativeToolTip": "Nature\\Site.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-21T14:18:27.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

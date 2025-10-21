@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Nature.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+
+
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+
+
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <header>
+                <p id="hdtext">Nature Web</p>
+            </header>
+
+            <nav>
+                <ul>
+                    <li> <a href="Default.aspx"> Home </a>   </li>
+                    <li> <a href="Contact.aspx"> Contact </a>   </li>
+                    <li> <a href="About.aspx"> About </a>   </li>
+                    <li> <a href="FAQ.aspx"> FAQ </a>   </li>
+                </ul>
+            </nav>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <footer>
+                <p> Design by Joao &copy 2025</p>
+            </footer>
+
+        </div>
+    </form>
+</body>
+</html>
