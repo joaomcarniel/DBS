@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\college\\Earth\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|c:\\college\\earth\\earth\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|solutionrelative:earth\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|c:\\college\\earth\\earth\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|solutionrelative:earth\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|C:\\college\\Earth\\earth\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|solutionrelative:earth\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|c:\\college\\earth\\earth\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D03AEF01-0FFC-4AC4-944E-B737BFDF313D}|Earth\\Earth.csproj|solutionrelative:earth\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jquery.js",
+              "DocumentMoniker": "C:\\college\\Earth\\Earth\\Jquery.js",
+              "RelativeDocumentMoniker": "Earth\\Jquery.js",
+              "ToolTip": "C:\\college\\Earth\\Earth\\Jquery.js",
+              "RelativeToolTip": "Earth\\Jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-09T22:48:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\college\\Earth\\Earth\\Default.aspx",
+              "RelativeDocumentMoniker": "Earth\\Default.aspx",
+              "ToolTip": "C:\\college\\Earth\\Earth\\Default.aspx",
+              "RelativeToolTip": "Earth\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-09T22:30:38.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\college\\Earth\\Earth\\style.css",
+              "RelativeDocumentMoniker": "Earth\\style.css",
+              "ToolTip": "C:\\college\\Earth\\Earth\\style.css",
+              "RelativeToolTip": "Earth\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T22:36:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\college\\Earth\\Earth\\Site1.Master",
+              "RelativeDocumentMoniker": "Earth\\Site1.Master",
+              "ToolTip": "C:\\college\\Earth\\Earth\\Site1.Master",
+              "RelativeToolTip": "Earth\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-30T22:36:30.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
