@@ -38,5 +38,4 @@
                 	<h4 class="question">Question</h4>
                 	<p class="answer">Answer bla bla bla... </p>
     	</div>
-
 </asp:Content>
