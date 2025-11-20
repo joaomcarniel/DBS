@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\college\\Algorithms and Data Structures\\Exercise 1\\",
+  "WorkspaceRootPath": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithms and data structures\\exercise 1\\exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithm and data structure\\exercise 1\\exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithms and data structures\\exercise 1\\exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithm and data structure\\exercise 1\\exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\college\\Algorithms and Data Structures\\Exercise 1\\Exercises Algorithms and Data Structures\\Program.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Program.cs",
               "RelativeDocumentMoniker": "Exercises Algorithms and Data Structures\\Program.cs",
-              "ToolTip": "C:\\college\\Algorithms and Data Structures\\Exercise 1\\Exercises Algorithms and Data Structures\\Program.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Program.cs",
               "RelativeToolTip": "Exercises Algorithms and Data Structures\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T14:47:36.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\college\\Algorithms and Data Structures\\Exercise 1\\Exercises Algorithms and Data Structures\\Service.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Service.cs",
               "RelativeDocumentMoniker": "Exercises Algorithms and Data Structures\\Service.cs",
-              "ToolTip": "C:\\college\\Algorithms and Data Structures\\Exercise 1\\Exercises Algorithms and Data Structures\\Service.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Service.cs",
               "RelativeToolTip": "Exercises Algorithms and Data Structures\\Service.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T14:19:23.852Z",
               "EditorCaption": ""

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithm and data structure\\exercise 1\\exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithm and data structure\\exercise 1\\exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|c:\\college\\algorithm and data structure\\exercise 1\\exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B495E-B10B-4A85-8CF6-01B7BA8AC485}|Exercises Algorithms and Data Structures\\Exercises Algorithms and Data Structures.csproj|solutionrelative:exercises algorithms and data structures\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Program.cs",
               "RelativeDocumentMoniker": "Exercises Algorithms and Data Structures\\Program.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\Exercise 1\\Exercises Algorithms and Data Structures\\Service.cs",
               "RelativeDocumentMoniker": "Exercises Algorithms and Data Structures\\Service.cs",
