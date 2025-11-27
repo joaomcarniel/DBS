@@ -1,0 +1,15 @@
+C:\college\OOP\AbstractClasses\AbstractClasses\bin\Debug\net9.0\AbstractClasses.exe
+C:\college\OOP\AbstractClasses\AbstractClasses\bin\Debug\net9.0\AbstractClasses.deps.json
+C:\college\OOP\AbstractClasses\AbstractClasses\bin\Debug\net9.0\AbstractClasses.runtimeconfig.json
+C:\college\OOP\AbstractClasses\AbstractClasses\bin\Debug\net9.0\AbstractClasses.dll
+C:\college\OOP\AbstractClasses\AbstractClasses\bin\Debug\net9.0\AbstractClasses.pdb
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.AssemblyInfo.cs
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.sourcelink.json
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.dll
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\refint\AbstractClasses.dll
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.pdb
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\AbstractClasses.genruntimeconfig.cache
+C:\college\OOP\AbstractClasses\AbstractClasses\obj\Debug\net9.0\ref\AbstractClasses.dll

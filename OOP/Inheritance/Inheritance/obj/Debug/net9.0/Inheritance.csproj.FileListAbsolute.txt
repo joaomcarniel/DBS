@@ -1,0 +1,15 @@
+C:\college\OOP\Inheritance\Inheritance\bin\Debug\net9.0\Inheritance.exe
+C:\college\OOP\Inheritance\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+C:\college\OOP\Inheritance\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+C:\college\OOP\Inheritance\Inheritance\bin\Debug\net9.0\Inheritance.dll
+C:\college\OOP\Inheritance\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.dll
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+C:\college\OOP\Inheritance\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll
