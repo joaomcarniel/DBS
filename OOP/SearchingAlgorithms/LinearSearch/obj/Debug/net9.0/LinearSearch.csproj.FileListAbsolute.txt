@@ -1,0 +1,15 @@
+C:\college\OOP\SearchingAlgorithms\LinearSearch\bin\Debug\net9.0\LinearSearch.exe
+C:\college\OOP\SearchingAlgorithms\LinearSearch\bin\Debug\net9.0\LinearSearch.deps.json
+C:\college\OOP\SearchingAlgorithms\LinearSearch\bin\Debug\net9.0\LinearSearch.runtimeconfig.json
+C:\college\OOP\SearchingAlgorithms\LinearSearch\bin\Debug\net9.0\LinearSearch.dll
+C:\college\OOP\SearchingAlgorithms\LinearSearch\bin\Debug\net9.0\LinearSearch.pdb
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.AssemblyInfoInputs.cache
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.AssemblyInfo.cs
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.sourcelink.json
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.dll
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\refint\LinearSearch.dll
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.pdb
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\LinearSearch.genruntimeconfig.cache
+C:\college\OOP\SearchingAlgorithms\LinearSearch\obj\Debug\net9.0\ref\LinearSearch.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeastCommonMultiple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6356887d7815dba20956954d6e4b654a52649c71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d465d6172fa564b856325f7ea99af4b0a4f5ce1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeastCommonMultiple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeastCommonMultiple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
