@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\college\\Algorithm and Data Structure\\SearchingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D5C0AD-3701-4481-BB2A-476FF333A0FB}|BinarySearch\\BinarySearch.csproj|c:\\college\\algorithm and data structure\\searchingalgorithms\\binarysearch\\binarysearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D5C0AD-3701-4481-BB2A-476FF333A0FB}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\binarysearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D5C0AD-3701-4481-BB2A-476FF333A0FB}|BinarySearch\\BinarySearch.csproj|c:\\college\\algorithm and data structure\\searchingalgorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D5C0AD-3701-4481-BB2A-476FF333A0FB}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearcher.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\SearchingAlgorithms\\BinarySearch\\BinarySearcher.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\BinarySearcher.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\SearchingAlgorithms\\BinarySearch\\BinarySearcher.cs",
+              "RelativeToolTip": "BinarySearch\\BinarySearcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:01:04.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\college\\Algorithm and Data Structure\\SearchingAlgorithms\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\college\\Algorithm and Data Structure\\SearchingAlgorithms\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T22:58:20.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
